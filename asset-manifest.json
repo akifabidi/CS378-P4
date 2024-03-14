@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CS378-P4.git/static/css/main.6d61da29.css",
-    "main.js": "/CS378-P4.git/static/js/main.7727ea10.js",
-    "static/js/453.7529f1e6.chunk.js": "/CS378-P4.git/static/js/453.7529f1e6.chunk.js",
-    "index.html": "/CS378-P4.git/index.html",
-    "main.6d61da29.css.map": "/CS378-P4.git/static/css/main.6d61da29.css.map",
-    "main.7727ea10.js.map": "/CS378-P4.git/static/js/main.7727ea10.js.map",
-    "453.7529f1e6.chunk.js.map": "/CS378-P4.git/static/js/453.7529f1e6.chunk.js.map"
+    "main.css": "/CS378-P4/static/css/main.6d61da29.css",
+    "main.js": "/CS378-P4/static/js/main.2add3a40.js",
+    "static/js/453.7529f1e6.chunk.js": "/CS378-P4/static/js/453.7529f1e6.chunk.js",
+    "index.html": "/CS378-P4/index.html",
+    "main.6d61da29.css.map": "/CS378-P4/static/css/main.6d61da29.css.map",
+    "main.2add3a40.js.map": "/CS378-P4/static/js/main.2add3a40.js.map",
+    "453.7529f1e6.chunk.js.map": "/CS378-P4/static/js/453.7529f1e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d61da29.css",
-    "static/js/main.7727ea10.js"
+    "static/js/main.2add3a40.js"
   ]
 }
